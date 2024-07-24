@@ -49,7 +49,6 @@ Even though my primary focus is on frontend development, I have a solid understa
 
 </p>
 
-<br>
 
 <!-- Skills (end) -->
 
