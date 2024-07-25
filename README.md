@@ -93,19 +93,25 @@ Even though my primary focus is on frontend development, I have a solid understa
 </a>
 </li>
 
-<br>
-
 <li>
 <a href="mailto:brag.866@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  BrayanGuti-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<li>
+<a href="https://www.instagram.com/brayang_863/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram: brayang_863-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+
+ 
 </ul>
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ---
