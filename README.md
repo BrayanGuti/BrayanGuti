@@ -8,16 +8,14 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+👨‍💻 **Passionate Full-Stack Developer**  
+I am passionate about both frontend and backend development. I love coding and constantly seek to enhance my skills, always aiming for clean, efficient, and maintainable code.
 
+🎨 **Frontend Enthusiast**  
+I enjoy creating user interfaces that are both visually appealing and user-friendly. UI/UX design has always been one of my favorite aspects of development.
 
-👨‍💻 **Passionate Coder**  
-I have a deep passion for coding and continuously strive to improve my skills. Every line of code I write is crafted with care and attention to detail, aiming for clean and readable code.
-
-🎨 **UI Enthusiast**  
-I love designing and creating user interfaces. Making visually appealing and user-friendly designs is one of my favorite aspects of development.
-
-💡 **Backend Aspirations**  
-Even though my primary focus is on frontend development, I have a solid understanding of backend technologies. I'm eager to deepen my knowledge in this area to become a versatile full-stack developer in the future.
+🛠️ **Junior Full-Stack Developer**  
+While my main focus was on frontend development, I now have experience in backend technologies like Django and SQL. Although I still consider myself a junior in backend, I am confident in my ability to work across the entire stack and continue growing in this area.
 <!--- About me End -->
 
 <!-- Skills (start) -->
@@ -40,9 +38,15 @@ Even though my primary focus is on frontend development, I have a solid understa
    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=React&logoColor=blue)
    ![Astro](https://img.shields.io/badge/Astro%20-%234B275F.svg?style=for-the-badge&logo=Astro&logoColor=black)
 
+- **Back-End Development**:
+
+  ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-EA2845.svg?style=for-the-badge&logo=SQL&logoColor=white)
+
 
 - **Softwares and Tools**:
 
+    ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -116,4 +120,4 @@ Even though my primary focus is on frontend development, I have a solid understa
 ---
 
 
-Last Edited on: 24/07/2024
+Last Edited on: 15/09/2024
