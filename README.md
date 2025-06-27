@@ -102,12 +102,6 @@ While my main focus was on frontend development, I now have experience in backen
 </a>
 </li>
 
-<li>
-<a href="https://www.instagram.com/brayang_863/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram: brayang_863-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-
 
  
 </ul>
