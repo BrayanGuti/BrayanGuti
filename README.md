@@ -8,14 +8,15 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-👨‍💻 **Passionate Full-Stack Developer**  
-I am passionate about both frontend and backend development. I love coding and constantly seek to enhance my skills, always aiming for clean, efficient, and maintainable code.
+👨‍💻 **Full-Stack Developer**
 
-🎨 **Frontend Enthusiast**  
-I enjoy creating user interfaces that are both visually appealing and user-friendly. UI/UX design has always been one of my favorite aspects of development.
 
-🛠️ **Junior Full-Stack Developer**  
-While my main focus was on frontend development, I now have experience in backend technologies like Django and SQL. Although I still consider myself a junior in backend, I am confident in my ability to work across the entire stack and continue growing in this area.
+I am a developer passionate about creating unique digital experiences. I enjoy exploring new ideas and refining my skills every day, constantly challenging myself to build things that are both useful and well-crafted. I specialize in bridging the gap between visually engaging frontends and robust, scalable backends, ensuring a seamless user experience from the interface to the underlying architecture.
+
+🚀 **What I Offer**
+
+
+I bring commitment, responsibility, and a solution-oriented mindset to every project. I focus on finding innovative and creative ways to solve complex problems, building high-impact tools that truly make a difference. My approach is rooted in solid full-stack knowledge and a drive to contribute good vibes and professional dedication to collaborative environments.
 <!--- About me End -->
 
 <!-- Skills (start) -->
