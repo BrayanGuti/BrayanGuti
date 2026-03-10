@@ -26,7 +26,6 @@ I bring commitment, responsibility, and a solution-oriented mindset to every pro
 
 
 <p align="center">
-## 🛠️ Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
