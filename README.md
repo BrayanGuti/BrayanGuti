@@ -12,7 +12,7 @@ I design and build scalable, distributed systems from event-driven backends on A
 
 🚀 **What I Offer**
 
-Strong ownership across the stack: RESTful APIs built on Clean Architecture, async messaging with SQS, and query optimization that's cut response times in production. I thrive in Agile teams where curiosity is encouraged and good engineering is a shared standard.
+Strong ownership across the stack: RESTful APIs built on Clean Architectur, and query optimization that's cut response times in production. I thrive in Agile teams where curiosity is encouraged and good engineering is a shared standard.
 
 <!--- About me End -->
 
