@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi, I'm Brayan Gutierrez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--- About me Start -->
 
-<!--- About me start -->
+<h1 align="center"><b>Hi, I'm Brayan Gutierrez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### About Me
 
@@ -10,9 +10,9 @@
 
 I design and build scalable, distributed systems from event-driven backends on AWS to responsive React interfaces. I care about clean architecture, measurable performance gains, and shipping software that holds up under real-world load.
 
-🚀 **What I Offer**
+⚡ **What I'm All About**
 
-Strong ownership across the stack: RESTful APIs built on Clean Architectur, and query optimization that's cut response times in production. I thrive in Agile teams where curiosity is encouraged and good engineering is a shared standard.
+Building robust backend architectures with clean code, crafting seamless user experiences, and exploring new tools to solve complex problems. Whether it's optimizing database queries, setting up cloud infrastructure, or collaborating on open-source, I love turning ideas into working code.
 
 <!--- About me End -->
 
